@@ -1,4 +1,4 @@
-# aurafarming
+# aurafarming😎
 INSTALL THE REQUIREMENTS FIRST
 
 
@@ -150,4 +150,3 @@ INSTALL THE REQUIREMENTS FIRST
 
 
 
-credits to koderrr33
